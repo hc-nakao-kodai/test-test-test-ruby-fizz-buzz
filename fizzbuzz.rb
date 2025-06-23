@@ -1,4 +1,4 @@
-(1..100).each do |i|
+(1..200).each do |i|
   if i % 15 == 0
     puts "FizzBuzz"
   elsif i % 3 == 0
